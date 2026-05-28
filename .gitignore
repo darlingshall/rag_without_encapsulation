@@ -8,4 +8,3 @@ __pycache__/
 *.iml
 app/
 
-config.py
